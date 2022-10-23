@@ -34,4 +34,4 @@ let lightbox = new SimpleLightbox(".gallery a", {
   //  через 250 мілісекунд після відкриття зображення.
 
 
-console.log(galleryItems);
+// console.log(galleryItems);
